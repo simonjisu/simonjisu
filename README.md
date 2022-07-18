@@ -1,25 +1,5 @@
-### Hi there 👋
-
 ### Soopace
 
-😀 [About Me]()
-
-📝 [Paper Reading](https://simonjisu.github.io/PaperReading/)
-
-💡 [Tutorials]()
-
-
-<!--
-**simonjisu/simonjisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![About.me](https://img.shields.io/badge/About.me-FFFFFF.svg?&style=for-the-badge&logo=About.me&logoColor=00A98F&link=https://simonjisu.github.io)](https://simonjisu.github.io)
+[![Paper Reading](https://img.shields.io/badge/Paper_Reading-FFFFFF.svg?&style=for-the-badge&logo=ReadtheDocs&logoColor=0288D1&link=https://simonjisu.github.io/PaperReading)](https://simonjisu.github.io/PaperReading)
+[![Tutorials](https://img.shields.io/badge/Tutorials-FFFFFF.svg?&style=for-the-badge&logo=ReadtheDocs&logoColor=E44332&link=https://simonjisu.github.io/Tutorials)](https://simonjisu.github.io/Tutorials)
